@@ -100,8 +100,11 @@ function createWindow() {
       minHeight: 800,
       minWidth: 1000,
       customVar: 'elephants',
-      isDebug: DEBUG,
-      autoHideMenuBar: true
+      autoHideMenuBar: true,
+      webPreferences: {
+        nodeIntegration: true
+      },
+      isDebug: DEBUG
     });
 
   const view = new BrowserView({
