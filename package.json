@@ -128,7 +128,6 @@
         "electron-compile": "^6.4.4",
         "electron-is-dev": "^1.2.0",
         "electron-squirrel-startup": "^1.0.0",
-        "hoek": "^4.2.1",
         "intl": "^1.2.5",
         "intl-messageformat": "^2.2.0",
         "jszip": "^3.5.0",
