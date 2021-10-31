@@ -1,3 +1,9 @@
+# FORKED FROM ORIGINAL jfo8000 REPOSITORY - ACCEPPTED PULL REQUEST THAT FIXES UBUNTU INSTALLATION
+
+Download Ubuntu .deb here: https://github.com/prandazzo/ScratchJr-Desktop/releases/tag/v.1.3.2-fix-ubuntu
+
+
+
 ## Official disclaimer
 Scratch and ScratchJr are trademarks of Massachusetts Institute of Technology, which does not sponsor, endorse, or authorize this content. See scratchjr.org for more information.
 
